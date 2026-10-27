@@ -1,0 +1,37 @@
+# Visual Studio
+.vs/
+
+# Build
+/bin/WebView2Data/
+build/
+Debug/
+Release/
+x64/
+x86/
+
+# User
+*.user
+*.VC.db
+*.VC.opendb
+
+# Logs
+log/*.log
+
+# Temp
+*.obj
+*.pdb
+*.idb
+*.ipch
+*.ilk
+*.iobj
+*.ipdb
+*.lastbuildstate
+*.tlog
+
+/iFind/
+/zqhpc/
+/api-pc/
+/.workbuddy/
+/logs/
+*.ps1
+*.bat
